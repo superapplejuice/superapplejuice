@@ -12,6 +12,7 @@ Outside of work, you will most likely find me doing one of the following in no p
 - Music production 🖥
 - DJing 💽
 - Minecraft 🌲
+- MEMES ( ͡° ͜ʖ ͡°)
 
 I'm always learning to improve my TypeScript skills because after jumping to it from JavaScript, I've become OBSESSESED 😱 with types!
 
