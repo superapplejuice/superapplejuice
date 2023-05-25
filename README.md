@@ -15,10 +15,7 @@ Outside of work, you will most likely find me doing one of the following in no p
 - MEMES ( ͡° ͜ʖ ͡°)
 
 I'm always learning to improve my TypeScript skills because after jumping to it from JavaScript, I've become OBSESSESED 😱 with types!
-
-Feel free to reach me at the following:
-- [Facebook](https://www.facebook.com/janmathew.tenmei/)
-- [LinkedIn](https://www.linkedin.com/in/jan-mathew-calaunan-940365188/)
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jan-mathew-calaunan-940365188/)!
 
 See you around and stay safe always! 😷
 
