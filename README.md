@@ -1,6 +1,6 @@
 # Hello! 🌊 #
 
-My name is Jan Mathew and I'm currently a software engineer 🧑‍💻 with Epam Systems based in Singapore 🇸🇬! I've been working as a software engineer for 2 years.
+My name is Jan Mathew and I'm currently a software engineer 🧑‍💻 with Epam Systems based in Singapore 🇸🇬! I've been working as a software engineer for 4 years.
 I have experience with:
 - TypeScript 🟦
 - React + Nextjs 🧬
